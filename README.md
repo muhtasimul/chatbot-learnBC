@@ -1,7 +1,10 @@
-<h1>Learn About British Columbia Chatbot<h1>
-<br/>
-<img src="./chat-demo-img/chat-demo-1.png" style="width:300px;height:220px;"/>
+<h2>Learn About British Columbia Chatbot</h2>
 
+<br/>
+
+<div>
+<img src="./chat-demo-img/chat-demo-1.png" style="width:300px;height:220px;"/>
+</div>
 <hr/>
 <div>
 <ul>
@@ -12,7 +15,7 @@
 
 </div>
 
-<h2>Next.js Instructions</h2>
+<h3>Next.js Instructions</h3>
 <details>
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
