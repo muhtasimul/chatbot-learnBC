@@ -11,7 +11,10 @@
     <li>This is a Chatbot Web Application created using Next.js & MongoDB</li>
     <li>UI has been designed using Bootstrap</li>
     <li>This is a personal project. This app is <strong>NOT</strong> affiliated company, organization, etc.</li>
+    <li>Click the link below to visit the app.</li>
 </ul>
+    https://chatbot-learn-bc.vercel.app/
+
 </div>
 
 <hr/>
