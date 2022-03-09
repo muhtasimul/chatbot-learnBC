@@ -3,9 +3,9 @@
 <img src="./chat-demo-img/chat-demo-1.png" style="width:300px;height:220px;"/>
 
 <hr/>
-    <li>This is a Chatbot Web Application created using Next.js & MongoDB</li>
-    <li>UI has been designed using Bootstrap</li>
-    <li>This is a personal project. This app is <strong>NOT</strong> affiliated company, organization, etc.</li>
+    <p>- This is a Chatbot Web Application created using Next.js & MongoDB</p>
+    <p>- UI has been designed using Bootstrap</p>
+    <p>- This is a personal project. This app is <strong>NOT</strong> affiliated company, organization, etc.</p>
 
 <hr/>
 
