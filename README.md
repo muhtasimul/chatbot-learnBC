@@ -10,7 +10,6 @@
     <li>This is a personal project. This app is <strong>NOT</strong> affiliated company, organization, etc.</li>
 </ul>
 
-<p>This is a Next.js App</p>
 </div>
 
 <hr/>
