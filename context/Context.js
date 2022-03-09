@@ -6,14 +6,14 @@ function ContextProvider({ children }) {
 
     const [ask, setAsk] = useState('')
     const [data, updateData] = useState([])
-
+    let randomKey = Math.random() * 100
     const solutionFind = (e) => {
         e.preventDefault()
         axios.post('/api/server', {
             string: ask
         }).then(
             res => {
-                updateData(prev => [...prev, { question: ask, answers: res.data.answer }])
+                updateData(prev => [...prev, { key: randomKey, question: ask, answers: res.data.answer }])
             }
 
         )

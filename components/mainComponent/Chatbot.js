@@ -25,7 +25,7 @@ export default function Chatbot() {
 
 
   const questions = data.map(q => (
-    <div className='d-flex flex-column border-0'>
+    <div key={q.key} className='d-flex flex-column border-0'>
       <div className={`${classes.chatbox} alert alert-secondary w-20 m-2 d-flex align-self-end`}>
         {q.question}
       </div>
