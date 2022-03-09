@@ -12,8 +12,9 @@
     <li>UI has been designed using Bootstrap</li>
     <li>This is a personal project. This app is <strong>NOT</strong> affiliated company, organization, etc.</li>
 </ul>
-
 </div>
+
+<hr/>
 
 <h3>Next.js Instructions</h3>
 <details>
