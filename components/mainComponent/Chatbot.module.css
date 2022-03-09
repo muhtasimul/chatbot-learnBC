@@ -1,0 +1,79 @@
+.details {
+	height: 85vh;
+	width: 100vw;
+	background-color: #ffed66;
+	font-family: "Montserrat", sans-serif;
+	margin-left: 0;
+}
+
+.cards {
+	height: 50vh;
+	max-width: 25vw;
+	border-radius: 7px;
+	margin: 0;
+	background: #fafafa;
+}
+
+.button {
+	border-bottom-left-radius: 5px;
+	border-top-right-radius: 0px;
+	border-top: 1px solid;
+	border-color: silver;
+	border-left: none;
+	background: hsl(0, 0%, 100%);
+}
+
+.button:hover {
+	background: hsl(0, 0%, 90%);
+}
+.input {
+	border-bottom-left-radius: 5px;
+	border-top-left-radius: 1px;
+	margin-right: 1px;
+	border-color: silver;
+	border-left: none;
+	border-right: none;
+}
+
+.chat {
+	overflow-y: auto;
+	height: 100%;
+}
+
+.chatbox {
+	max-width: 50%;
+	border: 1px solid #555;
+	background: #ffffff;
+	color: #454545;
+	font-weight: 600;
+}
+
+.icons {
+	color: #555;
+}
+
+.chat::-webkit-scrollbar {
+	width: 6px;
+}
+
+.chat::-webkit-scrollbar-track {
+	background: #f1f1f1;
+	border-radius: 10px;
+	height: 100%;
+}
+
+.chat::-webkit-scrollbar-thumb {
+	border-radius: 10px;
+	background: #555;
+}
+
+@media only screen and (max-width: 900px) {
+	.cards {
+		max-width: 90vw;
+	}
+}
+@media only screen and (min-width: 900px) {
+	.cards {
+		min-width: 40vw;
+	}
+}

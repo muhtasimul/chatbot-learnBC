@@ -1,0 +1,13 @@
+.details {
+	padding: 0;
+	margin: 0;
+	height: 100vh;
+	width: 100vw;
+}
+
+.details footer {
+	height: 5vh;
+	font-family: "Montserrat", sans-serif;
+	color: whitesmoke;
+	background-color: navy;
+}
