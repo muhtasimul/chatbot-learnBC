@@ -15,13 +15,15 @@
 </ul>
 </div>
 
-
+<div>
     <h1>Example Questions for the ChatBot </h1>
     <ul>
         <li>What is the population?</li>
         <li>Parks in BC</li>
         <li>History of British Columbia</li>        
     </ul>
+    </div>
+    
 
 <hr/>
 
