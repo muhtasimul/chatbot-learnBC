@@ -13,6 +13,8 @@
     <li>This is a personal project. This app is <strong>NOT</strong> with any affiliated company, organization, etc.</li>
     <li>Click the link to visit the app: https://chatbot-learn-bc.vercel.app/ </li>
 </ul>
+</div>
+
 
     <h1>Example Questions for the ChatBot </h1>
     <ul>
@@ -20,7 +22,6 @@
         <li>Parks in BC</li>
         <li>History of British Columbia</li>        
     </ul>
-</div>
 
 <hr/>
 
