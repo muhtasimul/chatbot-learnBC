@@ -14,6 +14,12 @@
     <li>Click the link to visit the app: https://chatbot-learn-bc.vercel.app/ </li>
 </ul>
 
+    <h1>Example Questions for the ChatBot </h1>
+    <ul>
+        <li>What is the population?</li>
+        <li>Parks in BC</li>
+        <li>History of British Columbia</li>        
+    </ul>
 </div>
 
 <hr/>
